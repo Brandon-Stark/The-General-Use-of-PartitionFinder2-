@@ -1,4 +1,4 @@
-"[PartitionFinder2](http://www.robertlanfear.com/partitionfinder/)的一般使用方法"
+# [PartitionFinder2](http://www.robertlanfear.com/partitionfinder/)的一般使用方法
 
 **[Rob Lanfear](https://github.com/roblanf)**
 
