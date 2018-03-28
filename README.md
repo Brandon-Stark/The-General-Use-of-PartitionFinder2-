@@ -1,12 +1,4 @@
-# The-General-Use-of-PartitionFinder2-
-PartitionFinder2的一般使用方法
----
-title: "[PartitionFinder2](http://www.robertlanfear.com/partitionfinder/)的一般使用方法"
-author: "<table><tr><td bgcolor=#FF00FF>琼恩·雪诺和布兰登·史塔克</td></tr></table>"
-date: "<table><tr><td bgcolor=orange>2018年3月21日</td></tr></table>"
-output: html_document
----
-
+"[PartitionFinder2](http://www.robertlanfear.com/partitionfinder/)的一般使用方法"
 
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
